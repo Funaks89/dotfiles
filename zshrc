@@ -66,3 +66,6 @@ export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 sudo /etc/init.d/postgresql start
 export DISPLAY=172.17.134.177:0
 export DISPLAY=172.18.95.193:0
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
